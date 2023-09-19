@@ -25,4 +25,4 @@ This game was inspired by the following resources:
 - Build a Tic-Tac-Toe Game With Python and Tkinter by Real Python
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the BSD 3-Clause License. See the LICENSE file for details.
